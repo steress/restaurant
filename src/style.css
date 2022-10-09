@@ -1,6 +1,7 @@
 body {
     padding: 0;
     margin:0;
+    overflow-x: hidden;
 }
 
 /* header part */
@@ -306,6 +307,9 @@ textarea:focus {
     }
     .headerRight > button {
         font-size: 22px;
+    }
+    .mainLeft > p:first-of-type {
+        font-size: 20px;
     }
 
 }

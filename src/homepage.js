@@ -36,7 +36,7 @@ function mainLeft() {
     "The establishment has been awarded many times for quality and style! Don't miss it!"
     ].join("")
     
-    firstP.innerText = "'Izbata' Tavern is a place you must visit !"
+    firstP.innerText = "'Izbata' Tavern is a place you must visit!"
     secondP.innerText = wallOfTextSecondP
     thirdP.innerText = wallOfTextThirdP
 
